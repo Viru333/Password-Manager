@@ -64,7 +64,7 @@ website_entry.grid(row=1, column=1, sticky=W, columnspan=2, padx=5, pady=5)
 website_entry.focus()
 
 username_entry = Entry(window, width=42, bg="white")
-username_entry.insert(END, "aman902821@gmail.com")
+username_entry.insert(END, "abc@gmail.com")
 username_entry.grid(row=2, column=1, sticky=W, columnspan=2, padx=5, pady=5)
 
 password_entry = Entry(window, width=23, bg="white")
